@@ -11,19 +11,29 @@ This project follows a modular architecture, ensuring scalability and maintainab
 ✅ Protected routes ensuring secure access to data
 
 ---
-## Login Page
+## 🔹Login Credentials to Explore the Website -
+You can use the following credentials to explore the website:
+- **Email:** `test@test.com`
+- **Password:** `Pass@123Pass`
+
+## 🔹Create Your Own Account
+- Want a personalized experience?
+  Feel free to sign up and create your own account using the **Sign Up** option on the website
+
+---
+## 🔹Login Page
 ![Login Page](https://res.cloudinary.com/dn8cpdhio/image/upload/v1742885756/Screenshot_2025-03-25_122002_j3sapd.png)
 
-## Dashboard Page
+## 🔹 Dashboard Page
 ![Dashboard Page](https://res.cloudinary.com/dn8cpdhio/image/upload/v1742885834/Screenshot_2025-03-25_121943_rfrwbj.png)
 
-## View Card in Map Page
+## 🔹 View Card in Map Page
 ![card view](https://res.cloudinary.com/dn8cpdhio/image/upload/v1742885842/Screenshot_2025-03-25_121751_zrgngd.png)
 
-## Map Page
+## 🔹 Map Page
 ![map page](https://res.cloudinary.com/dn8cpdhio/image/upload/v1742885837/Screenshot_2025-03-25_121717_wcnmfo.png)
 
-## Profile Page
+## 🔹 Profile Page
 ![profile page](https://res.cloudinary.com/dn8cpdhio/image/upload/v1742885835/Screenshot_2025-03-25_121902_kjfzhn.png)
 
 ## 🖊️ Navigation
