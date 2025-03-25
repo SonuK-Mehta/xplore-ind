@@ -67,10 +67,6 @@ You can use the following credentials to explore the website:
 ---
 
 ## 🛠️ Setup Instructions
-
-For detailed setup, refer to the **README.md** files in the respective folders:  
-- **Frontend Setup** → [Click Here](./frontend/README.md)  
-- **Backend Setup** → [Click Here](./backend/README.md)
   
 ### General Setup Guide
 1. **Clone the repository:**
