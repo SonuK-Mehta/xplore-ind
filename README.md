@@ -12,6 +12,7 @@ This project follows a modular architecture, ensuring scalability and maintainab
 
 ---
 ## 🔹Login Credentials to Explore the Website -
+### LINK - https://explore-india-lake.vercel.app/
 You can use the following credentials to explore the website:
 - **Email:** `test@test.com`
 - **Password:** `Pass@123Pass`
