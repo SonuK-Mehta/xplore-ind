@@ -10,6 +10,7 @@ import Dashboard from "./pages/DashboardPage";
 import ProfilePage from "./pages/ProfilePage";
 import MapPage from "./pages/MapPage";
 import NotFound from "./pages/NotFound";
+import Footer from "./components/Footer";
 
 const ProtectedRoute = ({ children }) => {
   const token = localStorage.getItem("token");
@@ -73,6 +74,7 @@ const App = () => {
           element={<Navigate to={isAuthenticated ? "/dashboard" : "/login"} />}
         />
       </Routes>
+      {isAuthenticated && <Footer />}
     </Router>
   );
 };

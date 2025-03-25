@@ -1,0 +1,27 @@
+.footer {
+  width: 100%;
+  text-align: center;
+  padding: 12px;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 153, 51, 0.6),
+    /* Saffron (Orange) */ rgba(255, 255, 255, 0.6),
+    /* White */ rgba(19, 136, 8, 0.6) /* Green */
+  );
+  backdrop-filter: blur(10px);
+  color: #1a73e8;
+  font-weight: bold;
+  position: relative;
+  bottom: 0;
+  border-top: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.footer a {
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
