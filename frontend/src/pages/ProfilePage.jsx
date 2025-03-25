@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { getUserProfile } from "../api/api";
 import { FaUserCircle } from "react-icons/fa";
 import styles from "./ProfilePage.module.css";
+import Footer from "../components/Footer";
 
 const ProfilePage = () => {
   const navigate = useNavigate();
@@ -66,6 +67,7 @@ const ProfilePage = () => {
           </>
         )}
       </div>
+      <Footer />
     </>
   );
 };

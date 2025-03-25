@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { getUserDashboard } from "../api/api";
 import PlacesList from "../components/PlacesList";
 import styles from "./DashboardPage.module.css";
+import Footer from "../components/Footer";
 
 const DashboardPage = () => {
   const navigate = useNavigate();
@@ -57,6 +58,7 @@ const DashboardPage = () => {
           <PlacesList places={places} />
         )}
       </div>
+      <Footer />
     </>
   );
 };
