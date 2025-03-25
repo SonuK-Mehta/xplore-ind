@@ -68,7 +68,7 @@ For detailed setup, refer to the **README.md** files in the respective folders:
 4. **Start the frontend application:**
    ```sh
    cd frontend  
-   npm start  
+   npm run dev  
    ```
 
 5. **Open the app in your browser:**  
