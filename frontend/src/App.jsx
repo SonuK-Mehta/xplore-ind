@@ -70,7 +70,7 @@ const App = () => {
         />
         <Route
           path="*"
-          element={<Navigate to={isAuthenticated ? "/notfound" : "/login"} />}
+          element={<Navigate to={isAuthenticated ? "/dashboard" : "/login"} />}
         />
       </Routes>
     </Router>
