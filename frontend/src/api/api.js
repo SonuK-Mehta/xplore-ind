@@ -16,17 +16,17 @@ api.interceptors.request.use((config) => {
 });
 
 // Auth APIs
-export const registerUser = (userData) => api.post("/register", userData);
-export const loginUser = (userData) => api.post("/login", userData);
-export const getUserProfile = () => api.get("/profile");
+export const registerUser = (userData) => api.post("/api/register", userData);
+export const loginUser = (userData) => api.post("/api/login", userData);
+export const getUserProfile = () => api.get("/api/profile");
 
 // Dashboard APIs
-export const createPlace = (placeData) => api.post("/dashboard", placeData);
-export const getUserDashboard = () => api.get("/dashboard");
-export const getPlaceById = (id) => api.get(`/dashboard/${id}`);
+export const createPlace = (placeData) => api.post("/api/dashboard", placeData);
+export const getUserDashboard = () => api.get("/api/dashboard");
+export const getPlaceById = (id) => api.get(`/api/dashboard/${id}`);
 export const updatePlace = (id, placeData) =>
-  api.put(`/dashboard/${id}`, placeData);
-export const deletePlace = (id) => api.delete(`/dashboard/${id}`);
+  api.put(`/api/dashboard/${id}`, placeData);
+export const deletePlace = (id) => api.delete(`/api/dashboard/${id}`);
 
 export default api;
 
