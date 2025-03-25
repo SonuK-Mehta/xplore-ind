@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.errorCode {
+  font-size: 8rem;
+  font-weight: bold;
+  color: #ff4757;
+  margin: 0;
+}
+
+.message {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.homeButton {
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.homeButton:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .errorCode {
+    font-size: 5rem;
+  }
+  .message {
+    font-size: 1.2rem;
+  }
+  .homeButton {
+    font-size: 0.9rem;
+    padding: 10px 20px;
+  }
+}

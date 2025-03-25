@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "660100000001",
+    "name": "Hawa Mahal",
+    "description": "A palace in Jaipur known for its unique architecture.",
+    "location": "Jaipur, Rajasthan",
+    "lat": 26.9239,
+    "lng": 75.8267,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758081/hawa-mahal_dk7dq3.jpg"
+  },
+  {
+    "_id": "660100000002",
+    "name": "Mysore Palace",
+    "description": "A royal residence in Karnataka known for its architecture.",
+    "location": "Mysore, Karnataka",
+    "lat": 12.3052,
+    "lng": 76.6551,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758078/Mysore_Palace_hrnfcx.jpg"
+  },
+  {
+    "_id": "660100000003",
+    "name": "Dal Lake",
+    "description": "A beautiful lake in Srinagar, known for its houseboats and shikaras.",
+    "location": "Srinagar, Jammu and Kashmir",
+    "lat": 34.0868,
+    "lng": 74.837,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758078/Dal_Lake_nv5w0e.jpg"
+  },
+  {
+    "_id": "660100000004",
+    "name": "Munnar",
+    "description": "A hill station in Kerala known for its tea plantations and scenic beauty.",
+    "location": "Munnar, Kerala",
+    "lat": 10.0889,
+    "lng": 77.0595,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758078/Munnar_bpbzfr.jpg"
+  },
+  {
+    "_id": "660100000005",
+    "name": "Ayodhya Temple",
+    "description": "A temple in Ayodhya dedicated to Lord Ram, an important Hindu pilgrimage site.",
+    "location": "Ayodhya, Uttar Pradesh",
+    "lat": 26.7964,
+    "lng": 82.1944,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758074/Ayodhya_Ram_Mandir_kitefg.jpg"
+  },
+  {
+    "_id": "660100000006",
+    "name": "Kedarnath Temple",
+    "description": "A famous Hindu temple dedicated to Lord Shiva in the Himalayas.",
+    "location": "Kedarnath, Uttarakhand",
+    "lat": 30.7352,
+    "lng": 79.0669,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758075/Kedarnath_Temple_ekei57.jpg"
+  },
+  {
+    "_id": "660100000007",
+    "name": "Gateway of India",
+    "description": "A historic arch-monument in Mumbai.",
+    "location": "Mumbai, Maharashtra",
+    "lat": 18.922,
+    "lng": 72.8347,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758072/Gateway_of_India_v78sdq.jpg"
+  },
+  {
+    "_id": "660100000008",
+    "name": "India Gate",
+    "description": "A war memorial in Delhi dedicated to Indian soldiers.",
+    "location": "New Delhi",
+    "lat": 28.6129,
+    "lng": 77.2295,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758071/india_gate_fhwvvn.jpg"
+  },
+  {
+    "_id": "660100000009",
+    "name": "Golden Temple",
+    "description": "A Sikh gurdwara located in Amritsar, Punjab.",
+    "location": "Amritsar, Punjab",
+    "lat": 31.62,
+    "lng": 74.8765,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758070/golden_temple_ewj35s.jpg"
+  },
+  {
+    "_id": "6601000000010",
+    "name": "Taj Mahal",
+    "description": "A UNESCO World Heritage Site and one of the Seven Wonders of the World.",
+    "location": "Agra, Uttar Pradesh",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758073/taj_mahal_rdfyml.jpg"
+  },
+  {
+    "_id": "660100000011",
+    "name": "Qutub Minar",
+    "description": "A UNESCO World Heritage Site and India's tallest brick minaret.",
+    "location": "Delhi",
+    "lat": 28.5245,
+    "lng": 77.1855,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758073/Qutub_Minar_shzec3.jpg"
+  },
+  {
+    "_id": "660100000012",
+    "name": "Charminar",
+    "description": "A historic monument and mosque in Hyderabad.",
+    "location": "Hyderabad, Telangana",
+    "lat": 17.3616,
+    "lng": 78.4747,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758068/Charminar_ctbm1a.jpg"
+  },
+  {
+    "_id": "660100000013",
+    "name": "Sun Temple",
+    "description": "A 13th-century temple dedicated to the Sun God in Konark.",
+    "location": "Konark, Odisha",
+    "lat": 19.8876,
+    "lng": 86.0945,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758074/sun_temple_u6ew5c.jpg"
+  },
+  {
+    "_id": "660100000014",
+    "name": "Meenakshi Temple",
+    "description": "A historic Hindu temple in Tamil Nadu.",
+    "location": "Madurai, Tamil Nadu",
+    "lat": 9.9195,
+    "lng": 78.1195,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758064/Meenakshi-Amman-Temple_t2iuit.webp"
+  },
+  {
+    "_id": "660100000015",
+    "name": "Victoria Memorial",
+    "description": "A grand marble building in Kolkata dedicated to Queen Victoria.",
+    "location": "Kolkata, West Bengal",
+    "lat": 22.5448,
+    "lng": 88.3426,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758073/Victoria_Memorial_ol0aao.jpg"
+  },
+  {
+    "_id": "660100000016",
+    "name": "Rani ki Vav",
+    "description": "A stepwell in Gujarat, a UNESCO World Heritage Site.",
+    "location": "Patan, Gujarat",
+    "lat": 23.85,
+    "lng": 72.12,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758404/rani_ki_vav_2_nizzx5.jpg"
+  },
+  {
+    "_id": "660100000017",
+    "name": "Ellora Caves",
+    "description": "A UNESCO World Heritage Site with rock-cut temples and monasteries.",
+    "location": "Aurangabad, Maharashtra",
+    "lat": 20.0268,
+    "lng": 75.178,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758065/Ellora_Caves_amw0cn.png"
+  },
+  {
+    "_id": "660100000018",
+    "name": "Brihadeeswarar Temple",
+    "description": "A Hindu temple in Tamil Nadu, part of the Great Living Chola Temples.",
+    "location": "Thanjavur, Tamil Nadu",
+    "lat": 10.7822,
+    "lng": 79.1315,
+    "image": "https://res.cloudinary.com/dn8cpdhio/image/upload/v1742758066/Brihadeeswarar_Temple_lrj4oo.jpg"
+  }
+]
